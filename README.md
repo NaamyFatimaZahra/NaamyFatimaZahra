@@ -8,18 +8,17 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE4a3QxZWc0YW9lazhhaHAzdmQwYnl4ZHBlaGQ3aWJqMWJtMjg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" 
        alt="Coding" width="400">
 </div>
+Fatima Zahra NAAMY is a passionate Full Stack Developer based in Agadir, Morocco, blending strong backend logic with intuitive frontend experiences.
+She specializes in Java and PHP, crafting robust systems using Spring Boot, Laravel, Hibernate, Spring Data JPA, Spring AOP, Spring MVC, JEE, and Servlets—a stack that reflects her commitment to clean, scalable software design.
 
-Fatima Zahra NAAMY is a Full Stack Developer based in Agadir, Morocco.
-She has strong expertise in backend development using Java and PHP, along with frameworks such as Spring Boot, Laravel, Hibernate, Spring Data JPA, Spring AOP, Spring MVC, JEE, and Servlets.
+On the frontend, she brings interfaces to life using JavaScript, HTML5, and CSS3, while leveraging modern tools like Angular, TailwindCSS, Bootstrap, JSP, and Ajax to create smooth and responsive user experiences.
 
-On the frontend side, she works with JavaScript, HTML5, and CSS3, and uses modern technologies including Angular, TailwindCSS, Bootstrap, JSP, and Ajax.
+Her expertise extends to database management with PostgreSQL and MySQL, and she navigates Cloud & DevOps environments confidently, working with Azure Monitor, Grafana, Docker, Git, and GitHub to ensure healthy, performant applications.
 
-She is experienced with PostgreSQL and MySQL databases, and has solid skills in Cloud & DevOps, particularly Azure Monitor, Grafana, Docker, Git, and GitHub.
+For quality assurance, she relies on JUnit and Mockito, and uses Swagger, OpenAPI, Jira, Figma, and UML to maintain clarity, structure, and communication throughout the development lifecycle.
 
-For testing, she uses JUnit and Mockito, and for documentation and project management she works with Swagger, OpenAPI, Jira, Figma, and UML.
-
-She is currently working on Cloud Infrastructure & Monitoring solutions at Dashy.
-Her ongoing learning focuses on Kubernetes, Azure, and Microservices Architecture.
+Currently, she is contributing to Cloud Infrastructure & Monitoring solutions at Dashy, where she continues to refine her technical depth.
+Her learning journey is focused on mastering Kubernetes, Azure, and Microservices Architecture to build the next generation of cloud-native applications.
 <br/>
 
 
