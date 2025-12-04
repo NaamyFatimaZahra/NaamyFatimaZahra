@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24,30&height=150&section=header&text=Fatima%20Zahra%20NAAMY&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Expert;PHP+%7C+Laravel+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 
@@ -357,6 +356,5 @@ $availability = 'Immediate';
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24,30&height=120&section=footer&animation=twinkling"/>
 
 </div>
