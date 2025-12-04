@@ -118,37 +118,3 @@ $techStack = [
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## Education & Learning
-
-</div>
-
-```php
-<?php
-$education = [
-    [
-        'degree' => 'Web & Mobile Development',
-        'institution' => 'YouCode UM6P',
-        'period' => '2024 - Present',
-        'focus' => [
-            'Full Stack Development', 
-            'Agile Methodologies', 
-            'Cloud Technologies'
-        ]
-    ],
-    [
-        'degree' => 'Bachelor in Arabic Law',
-        'institution' => 'Ibn Zohr University, Agadir',
-        'period' => '2019 - 2022'
-    ]
-];
-
-$currentLearning = [
-    'Cloud Architecture' => ['Azure', 'Cloud Native Architecture'],
-    'Monitoring' => ['Prometheus', 'ELK Stack', 'APM'],
-    'Containers' => ['Kubernetes', 'CI/CD Pipelines'],
-    'Security' => ['OWASP Top 10', 'OAuth2', 'JWT']
-];
-?>
-```
-
-
