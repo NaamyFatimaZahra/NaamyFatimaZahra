@@ -11,22 +11,33 @@ public class Developer {
     private String role = "Full Stack Developer";
     private String location = "Agadir, Morocco";
     
-    private String[] backend = {
-        "Java", "Spring Boot", 
-        "PHP", "Laravel", 
-        "Hibernate", "JPA"
+    // Backend Stack
+    private String[] backendLanguages = {"Java", "PHP"};
+    private String[] backendFrameworks = {
+        "Spring Boot", "Laravel", "Hibernate", 
+        "Spring Data JPA", "Spring AOP", "Spring MVC", 
+        "JEE", "Servlets"
     };
     
-    private String[] frontend = {
-        "JavaScript", "Angular", 
-        "TailwindCSS", "HTML5", "CSS3"
+    // Frontend Stack
+    private String[] frontendLanguages = {"JavaScript", "HTML5", "CSS3"};
+    private String[] frontendFrameworks = {
+        "Angular", "TailwindCSS", "Bootstrap", "JSP", "Ajax"
     };
     
+    // Databases
     private String[] databases = {"PostgreSQL", "MySQL"};
-    private String[] cloud = {"Azure Monitor", "Grafana", "Docker"};
     
-    private String currentWork = 
-        "Cloud Infrastructure & Monitoring @ Dashy";
+    // DevOps & Cloud
+    private String[] cloudDevOps = {"Azure Monitor", "Grafana", "Docker", "Git", "GitHub"};
+    
+    // Testing
+    private String[] testingTools = {"JUnit", "Mockito"};
+    
+    // Tools
+    private String[] developmentTools = {"Swagger", "OpenAPI", "Jira", "Figma", "UML"};
+    
+    private String currentWork = "Cloud Infrastructure & Monitoring @ Dashy";
     
     private String[] learning = {
         "Kubernetes", 
@@ -35,45 +46,8 @@ public class Developer {
     };
 }
 ```
-
-<br clear="right"/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-## 💼 Tech Stack
-
-</div>
-
-```php
-<?php
-$techStack = [
-    'Backend' => [
-        'languages' => ['Java', 'PHP'],
-        'frameworks' => [
-            'Spring Boot', 'Laravel', 'Hibernate', 
-            'Spring Data JPA', 'Spring AOP', 'Spring MVC', 
-            'JEE', 'Servlets'
-        ]
-    ],
-    'Frontend' => [
-        'languages' => ['JavaScript', 'HTML5', 'CSS3'],
-        'frameworks' => [
-            'Angular', 'TailwindCSS', 'Bootstrap', 'JSP', 'Ajax'
-        ]
-    ],
-    'DevOps & Cloud' => [
-        'Azure Monitor', 'Grafana', 'Docker', 'Git', 'GitHub'
-    ],
-    'Databases' => ['PostgreSQL', 'MySQL'],
-    'Testing' => ['JUnit', 'Mockito'],
-    'Tools' => ['Swagger', 'OpenAPI', 'Jira', 'Figma', 'UML']
-];
-?>
-```
-
 <br/>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
