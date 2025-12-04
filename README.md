@@ -11,9 +11,11 @@
 
 ```java
 @DeveloperProfile(name="Fatima Zahra NAAMY",role="Full Stack Developer",location="Agadir, Morocco")
-public class Developer {
-    private final String[] backendLanguages={"Java","PHP"},
-backendFrameworks={"Spring Boot","Laravel","Hibernate","Spring Data JPA","Spring AOP","Spring MVC","JEE","Servlets"},frontendLanguages={"JavaScript","HTML5","CSS3"},frontendFrameworks={"Angular","TailwindCSS","Bootstrap","JSP","Ajax"},databases={"PostgreSQL","MySQL"},cloudDevOps={"Azure Monitor","Grafana","Docker","Git","GitHub"},testingTools={"JUnit","Mockito"},developmentTools={"Swagger","OpenAPI","Jira","Figma","UML"};
+public class Developer{
+    private final String[] backendLanguages={"Java","PHP"},backendFrameworks={"Spring Boot","Laravel","Hibernate","Spring Data JPA","Spring AOP","Spring MVC","JEE","Servlets"};
+    private final String[] frontendLanguages={"JavaScript","HTML5","CSS3"},frontendFrameworks={"Angular","TailwindCSS","Bootstrap","JSP","Ajax"};
+    private final String[] databases={"PostgreSQL","MySQL"},cloudDevOps={"Azure Monitor","Grafana","Docker","Git","GitHub"};
+    private final String[] testingTools={"JUnit","Mockito"},developmentTools={"Swagger","OpenAPI","Jira","Figma","UML"};
     private final String currentWork="Cloud Infrastructure & Monitoring @ Dashy";
     private final String[] learning={"Kubernetes","Azure","Microservices Architecture"};
     public String getEmail(){return "naamyfatimazahra@gmail.com";}
