@@ -1,8 +1,8 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Expert;PHP+%7C+Laravel+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
-
 </div>
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif">
 
