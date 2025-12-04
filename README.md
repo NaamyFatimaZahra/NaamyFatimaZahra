@@ -71,32 +71,6 @@ public class Developer {
 <br/>
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<div align="center">
 
-## 📊 GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=NaamyFatimaZahra&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=a855f7&line=c084fc&point=e9d5ff&custom_title=Contribution%20Graph)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## 📈 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaamyFatimaZahra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&count_private=true&ring_color=c084fc" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaamyFatimaZahra&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=9ca3af" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaamyFatimaZahra&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&langs_count=8" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=NaamyFatimaZahra&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&icon_color=c084fc" />
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-</div>
