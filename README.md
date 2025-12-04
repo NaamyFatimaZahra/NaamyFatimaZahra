@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Fatima Zahra NAAMY
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24,30&height=150&section=header&text=Fatima%20Zahra%20NAAMY&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Expert;PHP+%7C+Laravel+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Expert;PHP+%7C+Laravel+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,6 +43,8 @@ public class Developer {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 ## Tech Stack
 
 </div>
@@ -76,23 +78,27 @@ $techStack = [
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,angular,html,css,tailwind,bootstrap,postgres,mysql,docker,git,github,grafana,figma&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel,js,angular,html,css,tailwind,bootstrap,postgres,mysql,docker,git,github,grafana,figma&perline=9&theme=dark" />
 
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
 ## GitHub Activity
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Fatima.Zahra.Naamy&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Fatima.Zahra.Naamy&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=a855f7&line=c084fc&point=e9d5ff&custom_title=Contribution%20Graph)
 
 </div>
 
 <br/>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## Featured Projects
 
@@ -145,6 +151,14 @@ public class TrackItAll {
 }
 ```
 
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
 </td>
 <td width="50%" valign="top">
 
@@ -182,11 +196,21 @@ class YouCourse {
 ?>
 ```
 
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</div>
+
 </td>
 </tr>
 </table>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -223,19 +247,25 @@ public class Experience {
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <div align="center">
 
 ## GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fatima.Zahra.Naamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fatima.Zahra.Naamy&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=c084fc&text_color=e9d5ff&count_private=true&ring_color=c084fc" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima.Zahra.Naamy&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=70a5fd&currStreakLabel=38bdae" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima.Zahra.Naamy&theme=radical&hide_border=true&background=0d1117&ring=a855f7&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=9ca3af" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima.Zahra.Naamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima.Zahra.Naamy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&langs_count=8" />
+
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Fatima.Zahra.Naamy&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e9d5ff&icon_color=c084fc" />
 
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
@@ -280,6 +310,8 @@ $currentLearning = [
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <div align="center">
 
 ## Connect With Me
@@ -311,6 +343,7 @@ $availability = 'Immediate';
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/FatimaZahraNAAMY)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naamyfatimazahra@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fatima.Zahra.Naamy)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212624290648)
 
 </div>
 
@@ -318,12 +351,12 @@ $availability = 'Immediate';
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fatima.Zahra.Naamy&color=70a5fd&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Fatima.Zahra.Naamy&color=a855f7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24,30&height=120&section=footer&animation=twinkling"/>
 
 </div>
