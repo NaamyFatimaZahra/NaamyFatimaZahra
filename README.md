@@ -1,11 +1,10 @@
-# Hi there, I'm Fatima Zahra NAAMY 👋
+# Hi there, I'm Fatima Zahra NAAMY
 
 ```java
-// Profile
 public class Developer {
     private String name = "Fatima Zahra NAAMY";
     private String role = "Full Stack Developer";
-    private String location = "Casablanca, Morocco 🇲🇦";
+    private String location = "Casablanca, Morocco";
     
     private String[] backend = {"Java", "Spring Boot", "PHP", "Laravel", "Hibernate", "JPA"};
     private String[] frontend = {"JavaScript", "Angular", "TailwindCSS", "HTML5", "CSS3"};
@@ -30,9 +29,14 @@ public class Developer {
 }
 ```
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Expert;PHP+%7C+Laravel+Developer;Cloud+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
 ```php
 <?php
-// About Me
 $about = [
     'passionate_about' => 'Building scalable and secure applications',
     'current_position' => 'Full Stack Developer Intern @ Dashy',
@@ -43,9 +47,7 @@ $about = [
 ```
 
 ```java
-// Tech Stack
 public class TechStack {
-    // Backend
     private String[] languages = {"Java", "PHP"};
     private String[] frameworks = {
         "Spring Boot", 
@@ -58,7 +60,6 @@ public class TechStack {
         "Servlets"
     };
     
-    // Frontend
     private String[] frontendLanguages = {"JavaScript", "HTML5", "CSS3"};
     private String[] frontendFrameworks = {
         "Angular", 
@@ -68,7 +69,6 @@ public class TechStack {
         "Ajax"
     };
     
-    // DevOps & Cloud
     private String[] devopsTools = {
         "Azure Monitor", 
         "Grafana", 
@@ -77,27 +77,27 @@ public class TechStack {
         "GitHub"
     };
     
-    // Databases
     private String[] databases = {"PostgreSQL", "MySQL"};
     
-    // Testing
     private String[] testingTools = {"JUnit", "Mockito"};
     
-    // Documentation & Design
     private String[] otherTools = {"Swagger", "OpenAPI", "Jira", "Figma", "UML"};
 }
 ```
 
-```java
-// Featured Projects
+<div align="center">
 
-// Project 1: TrackItAll - Supply Chain Management
+![](https://github-readme-activity-graph.vercel.app/graph?username=Fatima.Zahra.Naamy&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+```java
 public class TrackItAll {
     private String description = "Enterprise MVC application for supply chain optimization";
     private String[] modules = {"Procurement", "Production", "Delivery"};
     private String architecture = "MVC with Spring Boot";
     private String api = "REST API with Swagger documentation";
-    private String testing = "JUnit & Mockito (80%+ coverage)";
+    private String testing = "JUnit & Mockito";
     private String[] techStack = {
         "Java", 
         "Spring Boot", 
@@ -108,17 +108,16 @@ public class TrackItAll {
     };
     
     public void displayFeatures() {
-        System.out.println("✅ MVC Architecture with Spring Boot");
-        System.out.println("✅ Secured REST API with Swagger documentation");
-        System.out.println("✅ JPA/Hibernate persistence");
-        System.out.println("✅ Unit tests with JUnit & Mockito");
+        System.out.println("MVC Architecture with Spring Boot");
+        System.out.println("Secured REST API with Swagger documentation");
+        System.out.println("JPA/Hibernate persistence");
+        System.out.println("Unit tests with JUnit & Mockito");
     }
 }
 ```
 
 ```php
 <?php
-// Project 2: YouCourse - E-Learning Platform
 class YouCourse {
     private $description = "Complete online learning solution";
     private $authentication = "Secure user registration & login";
@@ -135,10 +134,10 @@ class YouCourse {
     
     public function getFeatures() {
         return [
-            '👤 Secure authentication system',
-            '💳 Automated payment integration',
-            '📊 Student progress dashboard',
-            '📱 Responsive design with TailwindCSS'
+            'Secure authentication system',
+            'Automated payment integration',
+            'Student progress dashboard',
+            'Responsive design with TailwindCSS'
         ];
     }
 }
@@ -146,7 +145,6 @@ class YouCourse {
 ```
 
 ```java
-// Professional Experience
 public class Experience {
     private String position = "Cloud Development & Supervision Intern";
     private String company = "Dashy";
@@ -171,9 +169,18 @@ public class Experience {
 }
 ```
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fatima.Zahra.Naamy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima.Zahra.Naamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatima.Zahra.Naamy&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=70a5fd&currStreakLabel=38bdae" />
+
+</div>
+
 ```php
 <?php
-// Education
 $education = [
     [
         'degree' => 'Web & Mobile Development',
@@ -195,7 +202,6 @@ $education = [
 ```
 
 ```java
-// Currently Learning
 public class CurrentLearning {
     private String[] cloudArchitecture = {
         "Azure", 
@@ -221,17 +227,8 @@ public class CurrentLearning {
 }
 ```
 
-```html
-<!-- GitHub Stats -->
-<!-- Replace 'Fatima.Zahra.Naamy' with your actual GitHub username -->
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fatima.Zahra.Naamy&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima.Zahra.Naamy&layout=compact&theme=tokyonight)
-
 ```php
 <?php
-// Contact & Languages
 $contact = [
     'email' => 'naamyfatimazahra@gmail.com',
     'linkedin' => 'https://linkedin.com/in/FatimaZahraNAAMY',
@@ -241,14 +238,22 @@ $contact = [
 
 $languages = [
     'arabic' => 'Native',
-    'french' => 'Professional (C1)',
-    'english' => 'Professional (B2)'
+    'french' => 'Professional',
+    'english' => 'Professional'
 ];
 
 $availability = 'Open to opportunities';
 ?>
 ```
 
----
+<div align="center">
 
-⭐️ **From** [Fatima Zahra NAAMY](https://github.com/Fatima.Zahra.Naamy)
+![](https://komarev.com/ghpvc/?username=Fatima.Zahra.Naamy&color=blueviolet&style=flat-square)
+
+</div>
+
+<div align="center">
+
+**From Fatima Zahra NAAMY**
+
+</div>
