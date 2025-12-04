@@ -1,9 +1,10 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Expert;PHP+%7C+Laravel+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="400" heigth="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE4a3QxZWc0YW9lazhhaHAzdmQwYnl4ZHBlaGQ3aWJqMWJtMjg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 </div>
+<div align="center"> <img align="right" alt="Coding" width="400" height="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWE4a3QxZWc0YW9lazhhaHAzdmQwYnl4ZHBlaGQ3aWJqMWJtMjg5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
 ```java
 public class Developer {
     private String name = "Fatima Zahra NAAMY";
